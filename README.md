@@ -43,7 +43,7 @@ As a **designer and coder**, I’m obsessed with crafting beautiful, functional,
 
 ## 🌱 Fun Facts:
 - 🦈 **Head of House** for Noah's Sharks – we bring the bite!  🦈
-- 💻 Over 30 years of teaching experience, and still loving every moment of it!  
+- 💻 Over 30 years of industry experience, and still loving every moment of it!  
 - 🚴‍♂️ I love riding motorcycles and my trusty scooter.  
 
 

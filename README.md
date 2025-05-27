@@ -5,8 +5,8 @@ I'm **Rom Zamora**, an **educator, designer, animator and coder** teaching **Sof
 
 ## 🔭 I’m currently working on...
 🎓 Staying ahead of the new **Software Engineering** curriculum and levelling up on:  
-- **LLMs** (e.g., Gemini 2.0, Claude 3.5, OpenAI GPT)  
-- Coding assistants like **GitHub Copilot** and **Windsurf AI**  
+- **LLMs** (Gemini 2.7, Claude 3.7, OpenAI GPT)  
+- Coding assistants like **Cursor**, **Lovable** and **Windsurf AI**  
 
 This term, we completed and deployed **Progressive Web Apps (PWA)** using Python on **PythonAnywhere**. 🚀  
 

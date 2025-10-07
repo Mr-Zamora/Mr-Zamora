@@ -3,10 +3,16 @@ I’m **Rom Zamora**. Educator, designer, animator, and coder. I teach **Softwar
 
 ---
 
+## 📺 YouTube
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@deepdivepodcast_mrz)  
+Mostly using NotebookLM
+
+---
+
 ## 🔭 Currently
-- Rolling out the updated **Stage 6 Software Engineering** curriculum.
-- Leveling up with **LLMs** (Gemini 2.7, Claude 3.7, OpenAI GPT) and editors like **Cursor**, **Lovable**, **Windsurf AI**.
-- Shipping **Flask + SQLite PWAs** on **PythonAnywhere**. Clean structure. Parameterised SQL. Minimal magic.
+- Rolling out the updated **Stage 6 Software Engineering** curriculum
+- Levelling up with the latest **LLMs** and **Agents**.
+- Shipping **Flask + SQLite PWAs** on **PythonAnywhere**. 
 
 ---
 
@@ -62,10 +68,10 @@ I also coach **FIRST LEGO League**. Team names, rules, judging, the lot.
 ---
 
 ## 🧩 Teaching projects you might see here
-- **Flask CRUD** with clean blueprints, base template, and simple auth.
+- **Flask + SQL CRUD** with clean blueprints, base template, and simple auth.
 - **Filipino Recipes PWA** sample, static first then Flask upgrade.
 - **Hangman** with levels, CSV or JSON word lists, scoring, and hints.
-- **ML notebooks** that stay readable, focus on core ideas, and run locally.
+
 
 ---
 
@@ -76,4 +82,4 @@ I also coach **FIRST LEGO League**. Team names, rules, judging, the lot.
 
 ---
 
-If you're a student, fork a repo and try it. If you are a teacher, feel free to reuse with credit. If you build something better, I would like to see it.
+If you're a student, fork a repo and try it. If you are a teacher, feel free to reuse with credit. 
